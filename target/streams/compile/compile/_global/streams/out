@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/dkuzniatsou/Spark/SparkTask2/src/main/scala/SparkTask2.scala:124:139: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val states2017WithTimestamp = expediaHotelsDuration2017.withColumn("batch_timestamp",$"date_time".cast(TimestampType).as("timestamp")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
